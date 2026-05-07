@@ -26,6 +26,6 @@
 - **Tableau**: 데이터 시각화 및 대시보드 제작
 
 ## 대시보드 보기 (Tableau Public)
-[![Tableau Dashboard](https://public.tableau.com/static/images/5_/5_6_17781243092660/4_1/1.png)](https://public.tableau.com/views/5_6_17781243092660/4_1?:language=ko-KR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[![Tableau Dashboard](https://public.tableau.com/static/images/5_/5_6_17781243092660/4_1/1_rss.png)](https://public.tableau.com/views/5_6_17781243092660/4_1?:language=ko-KR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 *위 이미지를 클릭하시면 인터랙티브 대시보드로 이동합니다.*
